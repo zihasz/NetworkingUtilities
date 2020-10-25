@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L9rTrMeZ5dO1Q9RAZlcZYxp+IGsCp+2baXpNdEr6LkiECYjO+y+8PwnDUF45Uh8bw+vhPjn2pX86A4+Nt15NVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ihász Zénó\\source\\repos\\NetworkUtils\\NetworkingUtilities\\NetworkingUtilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
