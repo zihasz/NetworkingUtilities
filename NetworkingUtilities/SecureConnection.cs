@@ -4,7 +4,7 @@ using System.Text;
 
 namespace NetworkingUtilities
 {
-    class Client
+    class SecureConnection
     {
     }
 }
