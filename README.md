@@ -6,17 +6,11 @@ NetwokringUtilities is a library to make networking easier in C# with basic and 
 
 ## Table of Content
 
-| Classess            | Description                                                             |
-| ------------------- | ----------------------------------------------------------------------- |
-| IClient.cs          | An interface for BasicClient and SecureClient                           |
-| BasicClient.cs      | A wrapper for the class System.Net.Sockets.TcpClient                    |
-| SecureClient        | A wrapper for the class System.Net.Sockets.TcpClient with SSL support   |
-| IServer.cs          | An interface for BasicServer and SecureServer                           |
-| BasicServer.cs      | A wrapper for the class System.Net.Sockets.TcpListener                  |
-| SecureServer.cs     | A wrapper for the class System.Net.Sockets.TcpListener with SSL support |
-| IConnection.cs      | An interface for BasicConnectin and SecureConnection                    |
-| BasicConnectin.cs   | A wrapper for the class System.Net.Sockets.Socket                       |
-| SecureConnection.cs | A wrapper for the class System.Net.Sockets.Socket with SSL support      |
+| Classess        | Description                          |
+| --------------- | ------------------------------------ |
+| SecureClient    | A TcpClients with SSL                |
+| SecureServer.cs | A TcpListener with SSL               |
+| SecureSocket.cs | A Socket Connection with SSL support |
 
 -   Note classess with SSL support accept only X509 Certificates
 
